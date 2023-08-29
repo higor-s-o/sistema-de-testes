@@ -1,0 +1,24 @@
+{
+  "name": "sistema-de-testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higor-s-o/sistema-de-testes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higor-s-o/sistema-de-testes/issues"
+  },
+  "homepage": "https://github.com/higor-s-o/sistema-de-testes#readme",
+  "devDependencies": {
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0"
+  }
+}
